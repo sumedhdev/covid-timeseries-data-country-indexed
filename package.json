@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/sumedhdev/covid-timeseries-data-country-indexed/issues"
   },
-  "homepage": "https://github.com/sumedhdev/covid-timeseries-data-country-indexed#readme"
+  "homepage": "https://github.com/sumedhdev/covid-timeseries-data-country-indexed#readme",
+  "dependencies": {
+    "isomorphic-fetch": "^3.0.0"
+  }
 }
