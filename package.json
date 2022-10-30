@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "rm -rf timeseries && mkdir timeseries && node index.js && git commit -am 'data update' && git push"
   },
   "repository": {
     "type": "git",
