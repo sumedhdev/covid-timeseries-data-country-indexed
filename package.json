@@ -1,0 +1,22 @@
+{
+  "name": "covid-timeseries-data-country-indexed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumedhdev/covid-timeseries-data-country-indexed.git"
+  },
+  "keywords": [
+    "covid"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumedhdev/covid-timeseries-data-country-indexed/issues"
+  },
+  "homepage": "https://github.com/sumedhdev/covid-timeseries-data-country-indexed#readme"
+}
